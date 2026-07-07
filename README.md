@@ -4,6 +4,7 @@ Este repositorio muestra todos los comandos de gh para conexiones SSH a GitHub
 # Lista de comandos
 
 | Comando | Descripción |
+| --- | --- |
 | gh auth login | Inicia sesión en tu cuenta de GitHub |
 | gh auth status | Verifica si estas conectado correctamente y la cuenta que se usa |
 | gh auth logout | Cierra la sesión |
